@@ -1,0 +1,15 @@
+{
+    "name": "crossword",
+    "version": "1.2.4",
+    "description": "A crossword puzzle solver tool",
+    "main": "crosswordSolver.js",
+    "scripts": {
+        "start": "node crosswordSolver.js",
+        "test": "jest"
+    },
+    "author": "Seth Athooh, Nicholas Ajwang",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
